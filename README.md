@@ -16,10 +16,10 @@
 
 <b>Day 6:</b><p>Now we have covered Services,factories in AngularJS . We will explore how we can design out own filters in AngularJS and pipe our data into filters and get the desired output.We will design our own form and see how AngularJS provide features to deal with featuresl like ng-dirty,ng-pristine and other for various form validation. We will discuss some events provided by AngularJS for dealing with like click,dbl click etc.</p>
 
-<b>Day 7:</b><p>We will see how we can us routers in AngularJS and how we can use to route to different parts of the application. This way we will see how our application design should be done and how various parts of the application should be placed.We will explore UI Routers in AngularJS and how it offers much benefits to the modern day web application</p>
+<b>Day 7:</b><p>We will see how we can use routers in AngularJS and how we can use to route to different parts of the application. This way we will see how our application design should be done and how various parts of the application should be placed.We will explore UI Routers in AngularJS and how it offers much benefits to the modern day web application</p>
 
 
-<b>Day 8:</b><p>We will explore the custom Directive in AngularJS and how can we manipulate DOM using directives . How AngularJS provides us a directive based approach.What are the various lifecycle of a directives</p>
+<b>Day 8:</b><p>We will explore the custom Directive in AngularJS and how can we manipulate DOM using directives . How AngularJS provides us a directive based approach.What are the various lifecycle of a directives.How we can create re-usable directives and how we can turn diretives into components. We can cover some small unit testing framework like karma or Mocha or Jasmine for performing Unit Testing in AngularJS </p>
 
 
 <b>Day 9:</b><p>We will cover a small project walk through in AngularJS and how we are using various techs as discussed above. We will explore Angular2 and how it is transforming the AngularJS world and how it is different from AngularJS and why it was needed</p>
